@@ -1,0 +1,50 @@
+.header{
+    border-bottom: 2px solid #4AA0D8;
+    background-color: rgba(17, 165, 169, 0.5);
+}
+
+.header li a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 700;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+/* .containers{
+    border: 1px solid black;
+} */
+
+/* .containerl{
+    border: 1px solid black;
+    text-align: justify;
+} */
+
+/* form{
+    display: block;
+    background-color: white;
+    box-shadow: 1px 1px 3px 2px #ddd;
+    margin: 40px auto;
+    max-width: 600px;
+    max-height: 700px;
+    padding: 20px;
+}
+
+form input{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+} */
+
