@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HeartieSelas/React-JS-Task2.git/static/css/main.d5d5aa07.css",
+    "main.js": "/HeartieSelas/React-JS-Task2.git/static/js/main.28f1555d.js",
+    "index.html": "/HeartieSelas/React-JS-Task2.git/index.html",
+    "main.d5d5aa07.css.map": "/HeartieSelas/React-JS-Task2.git/static/css/main.d5d5aa07.css.map",
+    "main.28f1555d.js.map": "/HeartieSelas/React-JS-Task2.git/static/js/main.28f1555d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d5aa07.css",
+    "static/js/main.28f1555d.js"
+  ]
+}
